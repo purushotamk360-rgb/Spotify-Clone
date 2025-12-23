@@ -26,7 +26,7 @@ live-server
 
 
 Spotify-Clone/
- ├── index.html
- ├── style.css
- ├── script.js
- └── assets/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
