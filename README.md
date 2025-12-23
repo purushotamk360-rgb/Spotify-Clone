@@ -19,14 +19,12 @@ A responsive front‑end web application replicating Spotify’s interface using
    cd Spotify-Clone
 
 
-
-npm install -g live-server
-live-server
-
+   npm install -g live-server
+   live-server
 
 
-Spotify-Clone/
-├── index.html
-├── style.css
-├── script.js
-└── assets/
+   Spotify-Clone/
+   ├── index.html
+   ├── style.css
+   ├── script.js
+   └── assets/
