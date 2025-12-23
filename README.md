@@ -17,3 +17,16 @@ A responsive front‑end web application replicating Spotify’s interface using
    ```powershell
    git clone https://github.com/purushotamk360-rgb/Spotify-Clone.git
    cd Spotify-Clone
+
+
+
+npm install -g live-server
+live-server
+
+
+
+Spotify-Clone/
+ ├── index.html
+ ├── style.css
+ ├── script.js
+ └── assets/
